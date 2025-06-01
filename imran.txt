@@ -1,4 +1,6 @@
 delip_1
+done
+delip_1
 i am done now
 delip_1
 king is back
@@ -6,3 +8,4 @@ bye
 i am king
 main
  main
+main
